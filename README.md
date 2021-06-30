@@ -17,3 +17,8 @@ At first I tried to build it using CycleGAN, Som errors accurd so i tried to tac
 
 ## Dataset
 Got the dataset from Kaggle, [I’m Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started), cleaned it a little bit for my needs, You can find my final dataset [here](https://drive.google.com/drive/folders/135ophtAeOyMY1hqLUXbVDjf8-TlGxtTM?usp=sharing), Its splitted to landskape and paintings already in numpy files, the images are 256 256 3.
+
+## Results
+All of the presented examples are new photos I found online, They are not even a part of the dataset!
+
+![First Result](https://github.com/benjamin32561/Generate-Monet-paintings/blob/main/results_images/1.jpg)
