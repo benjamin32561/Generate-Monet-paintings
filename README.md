@@ -16,4 +16,4 @@ The generator model is a trained VGG19 model without the Sequential head connect
 At first I tried to build it using CycleGAN, Som errors accurd so i tried to tackle the problam using simple GAN, it worked fine but didnt add colors to the results, then I returned to the CycleGan and made it work.
 
 ## Dataset
-Got the dataset from Kaggle, [I’m Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started), cleaned it a little bit for my needs, You can find my final dataset [here](https://drive.google.com/drive/folders/135ophtAeOyMY1hqLUXbVDjf8-TlGxtTM?usp=sharing), Its splitted to landskape and paintings already in numpy files, the images are 256*256*3.
+Got the dataset from Kaggle, [I’m Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started), cleaned it a little bit for my needs, You can find my final dataset [here](https://drive.google.com/drive/folders/135ophtAeOyMY1hqLUXbVDjf8-TlGxtTM?usp=sharing), Its splitted to landskape and paintings already in numpy files, the images are 256 256 3.
