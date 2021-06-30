@@ -1,1 +1,1 @@
-# Generate-Monet-paintings
+# Generate-Van-Gogh-painting
