@@ -21,4 +21,8 @@ Got the dataset from Kaggle, [I’m Something of a Painter Myself](https://www.k
 ## Results
 All of the presented examples are new photos I found online, They are not even a part of the dataset!
 
-![First Result](https://github.com/benjamin32561/Generate-Monet-paintings/blob/main/results_images/1.jpg)
+![First example](https://github.com/benjamin32561/Generate-Monet-paintings/blob/main/results_images/1.jpg)
+
+![Second example](https://github.com/benjamin32561/Generate-Monet-paintings/blob/main/results_images/2.jpg)
+
+![Third example](https://github.com/benjamin32561/Generate-Monet-paintings/blob/main/results_images/3.jpg)
