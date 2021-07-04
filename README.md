@@ -1,4 +1,4 @@
-# Generate-Van-Gogh-painting
+# Image-to-Monet-painting
 This project is a Deep learning model used to convert images to monet style paintings, the whole project is written in Python and using the Tensorflow 2 library
 
 ## Installation
